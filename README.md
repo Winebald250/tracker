@@ -23,12 +23,6 @@ Introducing our revolutionary Online Daily Expenses Tracker in PHP, designed to 
  4) Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
  5) Import the provided SQL file. The file is known as tracker.sql.
  6) Browse the Daily Expense Tracker System in a browser. i.e. http://localhost/tracker
- 
-🟪 User Account :
-
--> Username : winebaldbanituze@gmail.com
-
--> Password : 12345678
 
 
 
